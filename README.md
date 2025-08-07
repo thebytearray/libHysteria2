@@ -100,4 +100,4 @@ export hysteria2.
 
 # License
 
-This repository is based on the MIT License.
+This repository is based on the Apache 2.0 License.
