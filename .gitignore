@@ -3,3 +3,4 @@
 *.jar
 .ropeproject
 .build.sh
+.DS_Store
